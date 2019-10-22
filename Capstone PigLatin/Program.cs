@@ -12,25 +12,31 @@ namespace Capstone_PigLatin
             string word = Console.ReadLine();
             int index = 0;
 
-
-            if (StartsWithVowel(word) == true)
-            {
-                Console.Write(word + "way");
-            }
-            else if (StartsWithVowel(word) != true)
+            foreach (string sentence in word.Split())
             {
 
-                //for(int i =0; i< vowels.Length; i++)
-                //   {
-                //   if (word.StartsWith(vowels[i]))
-                //       {
-                //           Console.WriteLine(word + "way");
-                //       }
-                //   }
-                index = word.IndexOfAny(vowels);
-                string firstPart = word.Substring(index);
-                string secondPart = word.Substring(0, index);
-                Console.WriteLine(firstPart + secondPart + "ay");
+
+
+                if (StartsWithVowel(word) == true)
+                {
+                    Console.Write(word + "way");
+                }
+                else if (StartsWithVowel(word) != true)
+                {
+
+                    //for(int i =0; i< vowels.Length; i++)
+                    //   {
+                    //   if (word.StartsWith(vowels[i]))
+                    //       {
+                    //           Console.WriteLine(word + "way");
+                    //       }
+                    //   }
+                    index = word.IndexOfAny(vowels);
+                    string firstPart = word.Substring(index);
+                    string secondPart = word.Substring(0, index);
+                    Console.WriteLine(firstPart + secondPart + "ay");
+                }
+
             }
         }
         //public static string DoesNotStartWithVowel(string word)
@@ -50,4 +56,4 @@ namespace Capstone_PigLatin
             return false;
         }
     }
-}
+} 

@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\Capstone PigLatin\latinPig\bin\Debug\netcoreapp3.0\latinPig.exe
+C:\Users\Holmes HQ\source\repos\Capstone PigLatin\latinPig\bin\Debug\netcoreapp3.0\latinPig.deps.json
+C:\Users\Holmes HQ\source\repos\Capstone PigLatin\latinPig\bin\Debug\netcoreapp3.0\latinPig.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Capstone PigLatin\latinPig\bin\Debug\netcoreapp3.0\latinPig.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Capstone PigLatin\latinPig\bin\Debug\netcoreapp3.0\latinPig.dll
+C:\Users\Holmes HQ\source\repos\Capstone PigLatin\latinPig\bin\Debug\netcoreapp3.0\latinPig.pdb
+C:\Users\Holmes HQ\source\repos\Capstone PigLatin\latinPig\obj\Debug\netcoreapp3.0\latinPig.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\Capstone PigLatin\latinPig\obj\Debug\netcoreapp3.0\latinPig.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Capstone PigLatin\latinPig\obj\Debug\netcoreapp3.0\latinPig.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Capstone PigLatin\latinPig\obj\Debug\netcoreapp3.0\latinPig.dll
+C:\Users\Holmes HQ\source\repos\Capstone PigLatin\latinPig\obj\Debug\netcoreapp3.0\latinPig.pdb

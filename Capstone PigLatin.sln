@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capstone PigLatin", "Capstone PigLatin\Capstone PigLatin.csproj", "{65DA7093-175F-45A0-A6B6-B554D9E15ADF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "char work", "char work\char work.csproj", "{C36D3E5D-E9D6-4E9F-A363-B661AFDCD03F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "char work", "char work\char work.csproj", "{C36D3E5D-E9D6-4E9F-A363-B661AFDCD03F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "latinPig", "latinPig\latinPig.csproj", "{80460D93-B9A7-487C-8F9D-A1C3072690EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C36D3E5D-E9D6-4E9F-A363-B661AFDCD03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C36D3E5D-E9D6-4E9F-A363-B661AFDCD03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C36D3E5D-E9D6-4E9F-A363-B661AFDCD03F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80460D93-B9A7-487C-8F9D-A1C3072690EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80460D93-B9A7-487C-8F9D-A1C3072690EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80460D93-B9A7-487C-8F9D-A1C3072690EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80460D93-B9A7-487C-8F9D-A1C3072690EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
